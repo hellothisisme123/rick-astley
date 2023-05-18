@@ -1,0 +1,73 @@
+table {
+border: 2px solid black;
+/*border-collapse: collapse;*/
+text-align: center;
+font-size: 200%;
+font-family: "Lucida Sans", sans-serif;
+background-color: #adcfde;
+width: 75%;
+border-radius: 10px;
+-webkit-box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.65); 
+box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.65);
+}
+
+tr {
+border: 1px solid black;
+font-family: "Lucida Sans", sans-serif;
+}
+
+th {
+border: 1px solid black;
+font-family: "Lucida Sans", sans-serif;
+}
+
+td {
+/*border: 1px solid black;*/
+font-family: "Lucida Sans", sans-serif;
+}
+
+.GetTickets {	
+border: 1px solid black;
+background-color: #B3D0F5;
+border-radius: 10vh;
+padding: 0.75vh 0vh 0.75vh 0vh;
+text-decoration: none;
+margin-right: 5vh;
+margin-left: 5vh;
+color: black;
+font-weight: bold;
+}
+
+/*.odd {
+background-color: #B3D0F5;
+border-color: #B3D0F5;
+}*/
+
+.GetTickets:hover {
+/*text-decoration: underline;*/
+background-color: #a1bbdc;
+color: black;
+
+} 
+
+a {
+text-decoration: none;
+font-family: "Lucida Sans", sans-serif;
+}
+
+#container {
+text-align: center;
+width: 100%;
+font-family: "Lucida Sans", sans-serif;
+}
+
+h1 {
+font-family: "Arial", sans-serif;
+text-align: center;
+font-size: 4vh;
+}
+
+#About {
+margin-top: 10%;
+margin-left: 8%;
+}

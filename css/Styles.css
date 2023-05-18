@@ -1,0 +1,93 @@
+Body {
+background-color: #a1c3c4;	
+overflow-y: scroll;
+}
+
+div {
+align-items: center;
+}
+
+.topnav {
+overflow: hidden;
+background-color: #adcfde;
+border-width: 1px;
+border-style: solid;
+position: fixed;
+top: -5%;
+left: 0%;
+width: 105%;
+height: 18%;
+flex-wrap: none;
+text-align: center;
+padding-bottom: 2%;
+border-color: black;
+z-index: 10000000000;
+}
+
+.topnav p {
+text-align: center;
+}
+
+.topnav a {
+float: left;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 300%;
+font-family: NEON LED Light, "bauhaus 93";
+flex-wrap: nowrap;
+}
+
+.topnav a:hover {
+background-color: #a1bbdc;
+color: black;
+box-shadow:0px 0px 0px 1px black inset;
+flex-wrap: nowrap;
+border-radius: 10%;
+}
+
+
+
+.topnav a.active {
+background-color: #B3D0F5;
+color: black;
+flex-wrap: nowrap;
+box-shadow:0px 0px 0px 1px black inset;
+border-radius: 10%;
+}
+
+ul {
+list-style-type: none;
+}
+
+li {
+display: inline-block;
+margin-right: 5%;
+margin-top: 0.5%;
+font-size: 1vw;
+}
+
+#Tour {
+margin-left: -15%;
+margin-top: 11.75%;
+}
+
+#Store {
+margin-top: 10.5%;
+}
+
+#RickAstley {
+margin-left: 11%;
+padding-top: 7%;
+}
+
+#Gallery {
+margin-top: 8%;
+margin-left: 8%;
+}
+
+#About {
+margin-top: 10%;
+margin-left: 8%;
+}

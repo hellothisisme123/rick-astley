@@ -1,0 +1,170 @@
+body {
+overflow-y: scroll;
+}
+
+.RickButton {
+font-family: Broadway, "bauhaus 93";
+/*border: 1px solid black;*/
+height: 9.611111111%;
+width:  40.885416666%;
+/*position: fixed;
+/*left: 39.48%;
+/*top: -3%;*/
+margin-top: -5%;
+text-align: center;
+/*text-shadow: -3px -3px 3px rgba(0, 0, 0, 0.6);*/
+text-shadow: -4px -3px 5px rgba(0, 0, 0, 0.9);
+font-size: 500%;
+}
+
+.RickButton p {
+vertical-align: middle;
+}
+
+.Tour:hover {
+background-color: #a1bbdc;
+}
+
+.Store:hover {
+background-color: #a1bbdc;
+}
+
+.Gallery:hover {
+background-color: #a1bbdc;
+}
+
+.About:hover {
+background-color: #a1bbdc;
+}
+
+.Rick {
+height: 90%;
+position: absolute;
+left: -17%;
+top: 11%;
+}
+
+.Tour {
+height: 18.611111111%;
+width:  20.885416666%;
+border-left-style: solid;
+border-left-width: 1px;
+border-right-style: solid;
+border-right-width: 1px;
+border-top-style: solid;
+border-top-width: 1px;
+border-bottom-color: black;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+position: fixed;
+top: 20%;
+left: 13%;
+border-radius: 10px;
+z-index: 1000000;
+background-color: #adcfde;
+margin-top: 3%;
+box-shadow:0px 0px 4px 1px rgba(0,0,0,0.5);
+}
+
+.Tour p {
+font-family: NEON LED Light, "bauhaus 93";
+font-size: 3vw;
+text-align: center; 
+color: black;
+vertical-align: middle;
+}
+
+.Store {
+height: 18.611111111%;
+width:  20.885416666%;
+border-left-style: solid;
+border-left-width: 1px;
+border-right-style: solid;
+border-right-width: 1px;
+border-top-style: solid;
+border-top-width: 1px;
+border-bottom-color: black;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+position: fixed;
+top: 60%;
+left: 13%;
+border-radius: 10px;
+z-index: 1000000;
+background-color: #adcfde;
+box-shadow:0px 0px 4px 1px rgba(0,0,0,0.5);
+}
+
+.Store p {
+font-family: NEON LED Light, "bauhaus 93";
+font-size: 3vw;
+text-align: center;
+color: black;
+vertical-align: middle;
+}
+
+.Gallery {
+height: 18.611111111%;
+width:  20.885416666%;
+border-left-style: solid;
+border-left-width: 1px;
+border-right-style: solid;
+border-right-width: 1px;
+border-top-style: solid;
+border-top-width: 1px;
+border-bottom-color: black;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+position: fixed;
+top: 20%;
+right: 13%;
+border-radius: 10px;
+z-index: 1000000;
+background-color: #adcfde;
+margin-top: 3%;
+box-shadow:0px 0px 4px 1px rgba(0,0,0,0.5);
+}
+
+.Gallery p {
+font-family: NEON LED Light, "bauhaus 93";
+font-size: 3vw;
+text-align: center;
+color: black;
+vertical-align: middle;
+}
+
+.About {
+height: 18.611111111%;
+width:  20.885416666%;
+border-left-style: solid;
+border-left-width: 1px;
+border-right-style: solid;
+border-right-width: 1px;
+border-top-style: solid;
+border-top-width: 1px;
+border-bottom-color: black;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+position: fixed;
+top: 60%;
+right: 13%;
+border-radius: 10px;
+z-index: 1000000;
+background-color: #adcfde;
+box-shadow:0px 0px 4px 1px rgba(0,0,0,0.5);
+}
+
+.About p {
+font-family: NEON LED Light, "bauhaus 93";
+font-size: 3vw;
+text-align: center;
+color: black;
+vertical-align: middle;
+}
+
+body {
+background-image: url("../Images/RickAstley2Big2.jpg");
+background-repeat: no-repeat;
+background-size: 150%;
+background-position: 51.7% 0%;
+}
